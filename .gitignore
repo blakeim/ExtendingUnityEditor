@@ -60,3 +60,9 @@ Assets/Scenes.meta
 Assets/Editor/HelloWorldEditor.cs.meta
 Assets/Editor.meta
 .vscode/settings.json
+Assets/data.txt
+Assets/data.txt.meta
+Assets/Editor/EditorUIUtil.cs.meta
+Assets/Editor/SaveTestEditor.cs.meta
+Assets/Editor/TestWindow.cs.meta
+Assets/Scripts/SaveTest.cs.meta
