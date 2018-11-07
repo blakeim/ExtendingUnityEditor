@@ -66,3 +66,10 @@ Assets/Editor/EditorUIUtil.cs.meta
 Assets/Editor/SaveTestEditor.cs.meta
 Assets/Editor/TestWindow.cs.meta
 Assets/Scripts/SaveTest.cs.meta
+Assets/Scripts/Framework/SaveTest.cs.meta
+Assets/Scripts/Framework/HelloWorld.cs.meta
+Assets/Scripts/Editor/TestWindow.cs.meta
+Assets/Scripts/Editor/SaveTestEditor.cs.meta
+Assets/Scripts/Editor/HelloWorldEditor.cs.meta
+Assets/Scripts/Editor/EditorUIUtil.cs.meta
+Assets/Scripts/Editor.meta
