@@ -73,3 +73,5 @@ Assets/Scripts/Editor/SaveTestEditor.cs.meta
 Assets/Scripts/Editor/HelloWorldEditor.cs.meta
 Assets/Scripts/Editor/EditorUIUtil.cs.meta
 Assets/Scripts/Editor.meta
+*.meta
+*.meta
